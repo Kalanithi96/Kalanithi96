@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalanithi96
-- 👀 I’m interested in Machine Learning, Deep Learning
+- 👀 Curious
 
 <!---
 Kalanithi96/Kalanithi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
